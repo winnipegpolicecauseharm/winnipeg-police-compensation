@@ -1,0 +1,13 @@
+{
+  "name": "winnipeg-police-compensation",
+  "version": "1.0.0",
+  "description": "A script to collate compensation data for police officers in Winnipeg",
+  "main": "index.js",
+  "author": "Buck Doyle <b@chromatin.ca>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
